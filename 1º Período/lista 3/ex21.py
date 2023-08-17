@@ -11,7 +11,7 @@ b. votos nulos
 c. Votos em branco
 OBS: os votos em branco somam para o candidato que tiver mais votos (ao final)
 '''
-print("Votação da Pindamonhangaba!")
+print("Votação!")
 voto = int(input("Voto: "))
 cand1 = 0
 cand2 = 0
