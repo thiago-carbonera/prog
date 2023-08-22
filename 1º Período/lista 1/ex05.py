@@ -5,6 +5,7 @@ a. Área = largura x comprimento
 b. Perímetro = soma de todos os lados
 '''
 
+
 a= int(input("Largura: "))
 b= int(input("Comprimento :"))
 

@@ -3,11 +3,11 @@
 
 int main(){
     
-    /*char a = 97;
+    char a = 97;
     int b = 48;
     
     printf("s: %c \n", a);
-    printf("num: %d", b);*/
+    printf("num: %d", b);
     
     int a;
     int b;
